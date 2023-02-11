@@ -1,2 +1,4 @@
-# CMSC701_PA1
-CMSC 701 Programming Assignment 1: The Suffix Array
+# Programming Assignment 1: The Suffix Array
+Isabel Fernandez
+CMSC 701 Spring 23'
+February 28th, 2023ß
