@@ -1,8 +1,10 @@
 # Programming Assignment 1: The Suffix Array
 Isabel Fernandez
 CMSC 701 Spring 23'
-February 28th, 2023
+March 2, 2023
 
 ## Preliminary Infomration
-* **Coding Language:** C++
-* **Genome Refrence:** [Human Genome Resources at NCBI (Refrence Genome Sequence GRCh38)](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml)
+* **Coding Language:** GO
+* **Genome Refrence:** As mentioned in the code I used the GO suffix array function to create the suffix array andmodified the original code to access the array faster. (https://pkg.go.dev/index/suffixarray)
+* **How to run:** in the main.go function intput all your arguments and run it in terminal calling "go run main.go"
+
